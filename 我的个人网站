@@ -1,33 +1,42 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh-CN">
   <head>
-    <link href="css/styles.css" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>龙明兴的个人网站</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
   </head>
   <body>
+    <div style="background-color:#f1f1f1;
+    	text-align:center;
+      padding:40px;">
+      <img src='https://kangwenchang.com/logo.png'alt="龙明兴"width="40px"
+     height="40px" ></div>
+     <divstyle="max-width:700px;
+     	margin:30px auto;
+       	padding:15px;
+         	line-height:1.7;">
+       <h1>你好 世界 我是龙明兴</h1>
+       <p>这是我的第一个网站</p>
+       <p>我在元岛学习编程</p>
 
-    
 
+
+
+
+
+
+     </div>
+     <div 
+     style="background-color:#f1f1f1;
+     text-align:center;
+     padding:40px;
+     font-size:12px;">
+     <p>我的个人网</p>
+     <a href="https://www.longmingxing.com">友情链接</div>
   </body>
-  <div 
-	style="background-color:#f1f1f1;
-	text-align:center;
-	padding:40px">
-	<img src='https://s4.aconvert.com/convert/p3r68-cdx67/afvhj-cywx8.jpg
-	  'alt="永恒星空"width="100px"
-	  height="100px"></div>
-  <div style="max-width:700px;
-	margin:30px auto;
-	padding:15px;
-	line-height:1.7;"></div>
-  <p>我的个人网呃呃呃(~_~;)</p>
-  <p>我的个人网</p>
-  <p>我的个人网</p>
-  <div 
-	style="background-color:#f1f1f1;
-	text-align:center;
-	padding:40px
-	font-size:12px;">
-	<p>我的网站</p>
-	<a href="http://www.longmingxing.com">友情链接</a>
-  </div>
-</html>	
+</html>
